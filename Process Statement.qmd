@@ -1,0 +1,28 @@
+---
+title: "Process Statement"
+author: "Yuncheng Ni"
+format: html
+---
+
+## Reflection of study
+
+In this semester, my study on quantitative text analysis happen to be divided into two different stages. In the first one I was mainly focus on learning how to use Rstudio and Github, the basics of reading and inspecting data. In this part I was mainly learning how to use tools for the study, and I did not connect them close enough with my research project, as I was not sure how could I apply my linguistic study in translation with quantitative text analysis without specific examples.
+
+In the second stage, after enough discussion with classmates and professor, as I try to narrow my research topic and look for suitable data, I was able to better understand how to perform quantitative text analysis based on research projects. Although I did have data collection in my other study on AI translation, but the analysis was based on individual examples instead of a larger scale that would require analysis model to perform it. In this stage, I was mainly learning a new way of thinking and new models for analysis. Although I still haven't fully master the usage of all three analysis types in specific models, I was able to learn how quantitative analysis could be divide into different types, from exploring ideas to predict the future or a total quantity of data.
+
+After concluding my research project, I has made myself a research project that could be further developed in the future or provide a foundation for related research. Although it is like a simulation of a complete research, the topic I chose is something I could really work on, and the whole structure of the project is also helpful for me to build upon. If I continue my study on different analysis models, I might be able to make the research happen and come up with results I can actually present.
+
+
+## Resouce and strategy
+
+Before each labs the reading of text book is no doubt most important. Aside from reading the assigned texts, I would sometime also search for dictionaries for a more concise definition on terms. As I had almost no foundation in coding and it's my second language, sometimes the reading are just too hard to understand and it would be easier if I have a basic idea of what I am trying to further study on. I also found that I need to ask more questions, to both my classmates and professor. I do not have much communication opportunities with my classmates, so I did not have as many discussion with them. I also had discussion with professor in and after class with my study, and some of them did give me inspirations on my study progress and also the final research project that I had problems with.
+
+
+## Challenge
+
+I believe that the most challenging problem I met was determining my data collection for research project. My previous research, including undergraduate ones, are mostly qualitative analysis. Especially since the main research domain is translation, I had a hard time connecting it with a quantitative data collection. Another main reason for encountering this challenge was that I already had a general research direction. I didn't have enough time to start a complete new one, so I have to refine my current progress into something that would fit in for the research requirement. I find myself quite lucky that I had a broader topic at first so I had more options to consider when facing this issue.
+
+
+## Thoughts on future
+
+Among everything I have learned in this class, I think first I would apply my knowledge in using github. As I talked with professor before, github is a very useful tool and platform that has valuable information and tools in both daily life and research field. Learning how to use github would definitely give me a wider range for sources I could look into. At the same time, I would also think more on how to develop quantitative analysis in my future research. I have been mostly focus on qualitative research, and was lacking of enough data collection. The analysis methods learned from the class and most importantly the way of thinking would provide great help.
